@@ -4,13 +4,15 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 
 ## Faste opgaver
 
+
+
 |Dato|Opgave|Beskrivelse|
 |-|-|-|
-|1. marts 2023|Momsindberetning på TastSelv Erhverv|Moms for afregningsperioden 1. juli - 31. december 2022|
+|1. marts|Momsindberetning på TastSelv Erhverv|Moms for afregningsperioden 1. juli - 31. december året før|
 |30. juni|Årsrapport|Fristen for årsrapporten er 6 måneder efter regnskabsårets udløb.|
 |30. juni|Selvangivelse|Du skal indberette oplysningsskemaet i TastSelv Selskabsskat via TastSelv Erhverv. Fristen for at indberette oplysningsskemaet er som hovedregel 6 måneder efter indkomstårets udløb.|
 |Juli|Skat|...|
-|1. September 2023|Momsindberetning på TastSelv Erhverv|Moms for afregningsperioden 1. januar - 30. juni 2023|
+|1. September 2023|Momsindberetning på TastSelv Erhverv|Moms for afregningsperioden 1. januar - 30. juni samme år|
 |Løbende|Bogføring|Du skal løbende føre regnskabsbøger, herunder kassebog, salgsbog og købsbog.|
 
 
