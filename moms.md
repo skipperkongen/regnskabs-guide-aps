@@ -1,7 +1,6 @@
 # Moms
 
 ## Tidsfrister
-Læs mere på [skat](https://skat.dk/data.aspx?oid=2234572).
 
 |Afregningsperiode|Indberetnings- og betalingsfrist|
 |-|-|
@@ -10,7 +9,13 @@ Læs mere på [skat](https://skat.dk/data.aspx?oid=2234572).
 |1. juli - 31. december 2023|1. marts 2024|
 |1. januar - 30. juni 2024|2. september 2024|
 
+Læs mere om [momsfrister](https://skat.dk/data.aspx?oid=2234572)
 
+## Moms regnskab 
+
+Du skal indberette moms på Tastselv Erhverv.
+
+Læs mere om [momsregnskab](https://skat.dk/data.aspx?oid=2234574).
 
 ## Generelt
 
