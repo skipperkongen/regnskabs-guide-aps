@@ -10,16 +10,14 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 |-|-|-|
 |[Momsindberetning](./moms.md)|1. marts|Afregningsperioden 1. juli - 31. december året før|
 |[Generalforsamling](generalforsamling.md)|30. maj|For alle kapitalselskaber (ApS, A/S) gælder det, at den ordinære generalforsamling i selskabet skal være afholdt senest fem måneder efter regnskabsårets afslutning og generalforsamlingsreferatet skal være modtaget af Erhvervsstyrelsen|
-|[Årsrapport]()|30. juni|Fristen for årsrapporten er 6 måneder efter regnskabsårets udløb.|
-|[Selvangivelse]()|30. juni|Du skal indberette oplysningsskemaet i TastSelv Selskabsskat via TastSelv Erhverv. Fristen for at indberette oplysningsskemaet er som hovedregel 6 måneder efter indkomstårets udløb.|
+|[Årsrapport]()|30. juni|6 måneder efter regnskabsårets udløb.|
+|[Selvangivelse](selvangivelse.md)|30. juni|6 måneder efter indkomstårets udløb|
 |[Skat]()|Juli|...|
 |[Momsindberetning](./moms.md)|1. September|Afregningsperioden 1. januar - 30. juni samme år|
-|[Bogføring]()|Løbende|Du skal løbende føre regnskabsbøger, herunder kassebog, salgsbog og købsbog.|
+|[Bogføring]()|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|
 
 
 Læs mere:
-- [momsfrister](https://skat.dk/data.aspx?oid=2234572)
-- [momsregnskab](https://skat.dk/data.aspx?oid=2234574) 
 - [selskabsskat](https://skat.dk/data.aspx?oid=2234853)
 - Skat har lavet værktøjer til [regnskab og resultat](https://skat.dk/data.aspx?oid=4466)
 
