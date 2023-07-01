@@ -10,11 +10,11 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 |-|-|-|
 |[Momsindberetning](./moms.md)|1. marts|Afregningsperioden 1. juli - 31. december året før|
 |[Generalforsamling](generalforsamling.md)|30. maj|Senest fem måneder efter regnskabsårets afslutning|
-|[Årsrapport]()|30. juni|6 måneder efter regnskabsårets udløb.|
+|[Årsrapport](./årsrapport.md)|30. juni|6 måneder efter regnskabsårets udløb.|
 |[Selvangivelse](selvangivelse.md)|30. juni|6 måneder efter indkomstårets udløb|
-|[Skat]()|Juli|...|
+|[Skat](./skat.md)|Juli|...|
 |[Momsindberetning](./moms.md)|1. September|Afregningsperioden 1. januar - 30. juni samme år|
-|[Bogføring]()|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|
+|[Bogføring](./bogføring.md)|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|
 
 
 Læs mere:
