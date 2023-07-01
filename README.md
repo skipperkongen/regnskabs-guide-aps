@@ -2,7 +2,7 @@
 
 Her har jeg brugt ChatGPT 4 til at få styr på regnskab og revision i et anparts selskab.
 
-- [Årshjul for et ApS med alle opgaver](kalender.md)
+- [Opgaver og frister](kalender.md)
 - [Hvad kan en revisor hjælpe med?](revisor.md)
 - [Hvad skal du huske når jeg indberetter moms?](moms.md)
 
