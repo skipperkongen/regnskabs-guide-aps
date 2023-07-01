@@ -16,11 +16,6 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 |[Momsindberetning](./moms.md)|1. September|Afregningsperioden 1. januar - 30. juni samme år|
 |[Bogføring](./bogføring.md)|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|
 
-
-Læs mere:
-- [selskabsskat](https://skat.dk/data.aspx?oid=2234853)
-- Skat har lavet værktøjer til [regnskab og resultat](https://skat.dk/data.aspx?oid=4466)
-
 ## Andre og eventuelle opgaver
 
 ???
