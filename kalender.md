@@ -8,13 +8,13 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 
 |Opgave|Dato|Beskrivelse|
 |-|-|-|
-|[Momsindberetning](moms.md)|1. marts|Moms for afregningsperioden 1. juli - 31. december året før indberettes på TastSelv Erhverv|
-|**Generalforsamling**|30. maj|For alle kapitalselskaber (ApS, A/S) gælder det, at den ordinære generalforsamling i selskabet skal være afholdt senest fem måneder efter regnskabsårets afslutning og generalforsamlingsreferatet skal være modtaget af Erhvervsstyrelsen|
-|**Årsrapport**|30. juni|Fristen for årsrapporten er 6 måneder efter regnskabsårets udløb.|
-|**Selvangivelse**|30. juni|Du skal indberette oplysningsskemaet i TastSelv Selskabsskat via TastSelv Erhverv. Fristen for at indberette oplysningsskemaet er som hovedregel 6 måneder efter indkomstårets udløb.|
-|**Skat**|Juli|...|
-|**Momsindberetning**|1. September|Moms for afregningsperioden 1. januar - 30. juni samme år indberettes på TastSelv Erhverv|
-|**Bogføring**|Løbende|Du skal løbende føre regnskabsbøger, herunder kassebog, salgsbog og købsbog.|
+|[Momsindberetning](./moms.md)|1. marts|Moms for afregningsperioden 1. juli - 31. december året før|
+|[Generalforsamling](generalforsamling.md)|30. maj|For alle kapitalselskaber (ApS, A/S) gælder det, at den ordinære generalforsamling i selskabet skal være afholdt senest fem måneder efter regnskabsårets afslutning og generalforsamlingsreferatet skal være modtaget af Erhvervsstyrelsen|
+|[Årsrapport]()|30. juni|Fristen for årsrapporten er 6 måneder efter regnskabsårets udløb.|
+|[Selvangivelse]()|30. juni|Du skal indberette oplysningsskemaet i TastSelv Selskabsskat via TastSelv Erhverv. Fristen for at indberette oplysningsskemaet er som hovedregel 6 måneder efter indkomstårets udløb.|
+|[Skat]()|Juli|...|
+|[Momsindberetning](./moms.md)|1. September|Moms for afregningsperioden 1. januar - 30. juni samme år|
+|[Bogføring]()|Løbende|Du skal løbende føre regnskabsbøger, herunder kassebog, salgsbog og købsbog.|
 
 
 Læs mere:
