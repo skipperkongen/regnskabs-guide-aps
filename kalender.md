@@ -8,11 +8,11 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 
 |Opgave|Dato|Beskrivelse|
 |-|-|-|
-|Momsindberetning på TastSelv Erhverv|1. marts|Moms for afregningsperioden 1. juli - 31. december året før|
+|Momsindberetning|1. marts|Moms for afregningsperioden 1. juli - 31. december året før indberettes på TastSelv Erhverv|
 |Årsrapport|30. juni|Fristen for årsrapporten er 6 måneder efter regnskabsårets udløb.|
 |Selvangivelse|30. juni|Du skal indberette oplysningsskemaet i TastSelv Selskabsskat via TastSelv Erhverv. Fristen for at indberette oplysningsskemaet er som hovedregel 6 måneder efter indkomstårets udløb.|
 |Skat|Juli|...|
-|Momsindberetning på TastSelv Erhverv|1. September|Moms for afregningsperioden 1. januar - 30. juni samme år|
+|Momsindberetning på TastSelv Erhverv|1. September|Moms for afregningsperioden 1. januar - 30. juni samme år indberettes på TastSelv Erhverv|
 |Bogføring|Løbende|Du skal løbende føre regnskabsbøger, herunder kassebog, salgsbog og købsbog.|
 
 
