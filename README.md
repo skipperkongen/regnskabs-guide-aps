@@ -2,6 +2,8 @@
 
 Her har jeg brugt ChatGPT 4 til at få styr på regnskab og revision i et anparts selskab.
 
+- Overblik (denne fil)
+
 ## Hvilke regnskabs og indberetningsopgaver har jeg i løbet af året hvis jeg driver et anpartsselskab?
 
 Hvis du driver et anpartsselskab (ApS) i Danmark, er der flere regnskabs- og indberetningsopgaver, du skal udføre løbende og årligt. Nedenfor er de vigtigste:
