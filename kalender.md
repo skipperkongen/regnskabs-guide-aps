@@ -1,6 +1,6 @@
 # Årshjul for ApS med alle opgaver
 
-Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. januar og en omsætning på under 5 millioner DKK (påvirker bl.a. MOMS indberetningsfrekvens).
+Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. januar og en omsætning på under 5 millioner DKK, hvilket påvirker indberetningsfrekvens for moms.
 
 ## Faste opgaver
 
