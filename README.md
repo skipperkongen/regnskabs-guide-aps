@@ -2,7 +2,7 @@
 
 Her har jeg brugt ChatGPT 4 til at få styr på regnskab og revision i et anparts selskab.
 
-- [Kalender](kalender.md)
+- [Årshjul for et ApS med alle opgaver](kalender.md)
 
 ## Hvilke regnskabs og indberetningsopgaver har jeg i løbet af året hvis jeg driver et anpartsselskab?
 
