@@ -9,7 +9,7 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 |Opgave|Dato|Beskrivelse|
 |-|-|-|
 |[Momsindberetning](./moms.md)|1. marts|Afregningsperioden 1. juli - 31. december året før|
-|[Generalforsamling](generalforsamling.md)|30. maj|For alle kapitalselskaber (ApS, A/S) gælder det, at den ordinære generalforsamling i selskabet skal være afholdt senest fem måneder efter regnskabsårets afslutning og generalforsamlingsreferatet skal være modtaget af Erhvervsstyrelsen|
+|[Generalforsamling](generalforsamling.md)|30. maj|Senest fem måneder efter regnskabsårets afslutning|
 |[Årsrapport]()|30. juni|6 måneder efter regnskabsårets udløb.|
 |[Selvangivelse](selvangivelse.md)|30. juni|6 måneder efter indkomstårets udløb|
 |[Skat]()|Juli|...|
