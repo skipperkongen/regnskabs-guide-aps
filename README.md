@@ -3,9 +3,9 @@
 Her har jeg brugt ChatGPT 4 til at få styr på regnskab og revision i et anparts selskab.
 
 - [Årshjul for et ApS med alle opgaver](kalender.md)
+- [Hvad kan en revisor hjælpe med?](revisor.md)
 
-## Hvilke regnskabs og indberetningsopgaver har jeg i løbet af året hvis jeg driver et anpartsselskab?
-
+## Overblik
 Hvis du driver et anpartsselskab (ApS) i Danmark, er der flere regnskabs- og indberetningsopgaver, du skal udføre løbende og årligt. Nedenfor er de vigtigste:
 
 1. **Årsrapport**: Du skal udarbejde en årsrapport, som skal indsendes til Erhvervsstyrelsen inden for fire måneder efter regnskabsårets afslutning. Årsrapporten skal omfatte ledelsesberetning, resultatopgørelse, balance, noter og eventuelt en ledelsespåtegning. 
