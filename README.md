@@ -4,7 +4,7 @@ Her har jeg brugt ChatGPT 4 til at få styr på regnskab og revision i et anpart
 
 - [Opgaver og frister](kalender.md)
 - [Hvad kan en revisor hjælpe med?](revisor.md)
-- [Hvad skal du huske når jeg indberetter moms?](moms.md)
+- [Hvad skal du huske når du indberetter moms?](moms.md)
 
 ## Overblik
 Hvis du driver et anpartsselskab (ApS) i Danmark, er der flere regnskabs- og indberetningsopgaver, du skal udføre løbende og årligt. Nedenfor er de vigtigste:
