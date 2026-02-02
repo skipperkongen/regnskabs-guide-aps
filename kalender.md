@@ -1,6 +1,6 @@
 # Opgaver og frister
 
-Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. januar og en omsætning på under 5 millioner DKK, hvilket påvirker indberetningsfrekvens for moms.
+Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 31. december og en omsætning på under 5 millioner DKK, hvilket påvirker indberetningsfrekvens for moms.
 
 ## Faste opgaver
 Selskabets “skattemæssige selvangivelse”/oplysninger om årets resultat (skattemæssig indkomst mv.).
