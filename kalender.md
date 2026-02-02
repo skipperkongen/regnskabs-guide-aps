@@ -3,16 +3,17 @@
 Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. januar og en omsætning på under 5 millioner DKK, hvilket påvirker indberetningsfrekvens for moms.
 
 ## Faste opgaver
+Selskabets “skattemæssige selvangivelse”/oplysninger om årets resultat (skattemæssig indkomst mv.).
 
-|Opgave|Dato|Beskrivelse|
-|-|-|-|
-|[Momsindberetning](./moms.md)|Cirka 1. marts, se [aktuelle frister](https://skat.dk/erhverv/moms/frister-indberet-og-betal-moms)|Afregningsperioden 1. juli - 31. december året før|
-|[Generalforsamling](generalforsamling.md)|Cirka 30. maj|Senest fem måneder efter regnskabsårets afslutning|
-|[Årsrapport](./årsrapport.md)|30. juni|6 måneder efter regnskabsårets udløb.|
-|[Selvangivelse](selvangivelse.md)|30. juni|6 måneder efter indkomstårets udløb|
-|[Skat](./skat.md)|Juli|...|
-|[Momsindberetning](./moms.md)|Cirka 1. September, se [aktuelle frister](https://skat.dk/erhverv/moms/frister-indberet-og-betal-moms)|Afregningsperioden 1. januar - 30. juni samme år|
-|[Bogføring](./bogføring.md)|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|
+|Opgave|Dato|Offset|Hvor|
+|-|-|-|-|
+|[Momsindberetning](./moms.md)|Cirka 1. marts, se [aktuelle frister](https://skat.dk/erhverv/moms/frister-indberet-og-betal-moms)|Afregningsperioden 1. juli - 31. december året før|-|
+|[Generalforsamling](generalforsamling.md)|Cirka 30. maj|Senest fem måneder efter regnskabsårets afslutning|-|
+|[Årsrapport](./årsrapport.md)|30. juni|6 måneder efter regnskabsårets udløb. Selskabets “skattemæssige selvangivelse”/oplysninger om årets resultat (skattemæssig indkomst mv.)|-|
+|[Oplysningsskema](oplysningsskema.md)|30. juni|6 måneder efter indkomstårets udløb|Indberettes i [TastSelv Erhverv](https://skat.dk/erhverv/oplys-aarets-resultat) hos Skattestyrelsen|
+|[Skat](./skat.md)|Juli|...|-|
+|[Momsindberetning](./moms.md)|Cirka 1. September, se [aktuelle frister](https://skat.dk/erhverv/moms/frister-indberet-og-betal-moms)|Afregningsperioden 1. januar - 30. juni samme år|-|
+|[Bogføring](./bogføring.md)|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|-|
 
 ## Andre og eventuelle opgaver
 
