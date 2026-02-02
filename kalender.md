@@ -4,21 +4,20 @@ Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 1. janu
 
 ## Faste opgaver
 
-
-
 |Opgave|Dato|Beskrivelse|
 |-|-|-|
-|[Momsindberetning](./moms.md)|1. marts|Afregningsperioden 1. juli - 31. december året før|
-|[Generalforsamling](generalforsamling.md)|30. maj|Senest fem måneder efter regnskabsårets afslutning|
+|[Momsindberetning](./moms.md)|Cirka 1. marts, se [aktuelle frister](https://skat.dk/erhverv/moms/frister-indberet-og-betal-moms)|Afregningsperioden 1. juli - 31. december året før|
+|[Generalforsamling](generalforsamling.md)|Cirka 30. maj|Senest fem måneder efter regnskabsårets afslutning|
 |[Årsrapport](./årsrapport.md)|30. juni|6 måneder efter regnskabsårets udløb.|
 |[Selvangivelse](selvangivelse.md)|30. juni|6 måneder efter indkomstårets udløb|
 |[Skat](./skat.md)|Juli|...|
-|[Momsindberetning](./moms.md)|1. September|Afregningsperioden 1. januar - 30. juni samme år|
+|[Momsindberetning](./moms.md)|Cirka 1. September, se [aktuelle frister](https://skat.dk/erhverv/moms/frister-indberet-og-betal-moms)|Afregningsperioden 1. januar - 30. juni samme år|
 |[Bogføring](./bogføring.md)|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|
 
 ## Andre og eventuelle opgaver
 
-???
+- Acontoskat / selskabsskat-betalinger: typisk rater 20. marts og 20. november + mulighed for ekstra frivillig rate omkring 1. februar året efter. Se [sådan betaler du aconto skat](https://skat.dk/erhverv/selskaber-fonde-og-foreninger/selskaber-og-fonde/betal-acontoskat-og-selskabsskat).
+- Tjek årsopgørelse for selskabsskat (kommer typisk senere på året) og afstem evt. restskat/renter via Skattekontoen. Skat anbefaler også løbende afstemning af Skattekonto.
 - **Ændringer i ledelsen**
 - **Lønsumsafgift**: Hvis du har lønnede medarbejdere
 - **Aktiekapital dokumentation**
