@@ -25,3 +25,15 @@ En revisor kan hjælpe med mange forskellige ydelser i Danmark. Disse ydelser ka
 10. Hjælp til opstart af virksomheder: Rådgivning om valg af virksomhedsform, registrering af virksomheden, oprettelse af forretningsplaner osv.
 
 Hver enkelt virksomhed har unikke behov, så det er vigtigt at arbejde tæt sammen med en revisor for at sikre, at alle virksomhedens finansielle behov bliver mødt.
+
+## Revisorer til små ApS'er
+
+Følgende revisorer og regnskabsbureauer er specialiserede i små virksomheder og tilbyder faste, forudsigelige priser – uden at det behøver koste en formue:
+
+- **[Revisor1](https://revisor1.dk/)** – Digital revisor fra ca. 3.295 kr./år. Ofte 2–3 gange billigere end traditionelle revisorer, papirløst koncept.
+- **[Revisor Mikael Hansen](https://revisormikaelhansen.dk/)** – ApS-pakker fra 4.000–8.800 kr./år (uden eller med bogføring). Specialiseret i enkeltmandsvirksomheder og ApS.
+- **[eRevision](https://erevision.dk/priser)** – Fast pris efter virksomhedstype, f.eks. fra 4.900 kr. for små virksomheder.
+- **[eBogholderen](https://www.ebogholderen.dk/)** – Årsafslutning for ApS fra ca. 4.990 kr.
+- **[Kikko ApS](https://www.kikkoaps.dk/)** – ApS-bogføring fra ca. 9.000 kr./år inkl. regnskabsprogram, momsindberetning og årsregnskab.
+
+> **Tip:** Sammenlign tilbud og tjek anmeldelser (f.eks. på Trustpilot) før du vælger. Mange tilbyder uforpligtende tilbud.

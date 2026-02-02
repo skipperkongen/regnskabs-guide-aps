@@ -1,30 +1,37 @@
-# regnskabs-guide-aps
+# Opgaver og frister
 
-Her har jeg brugt ChatGPT 4 til at få styr på regnskab og revision i et anparts selskab.
+Eksempel for et mindre anpartsselskab med regnskabsår fra 1. januar til 31. december og en omsætning på under 5 millioner DKK, hvilket påvirker indberetningsfrekvens for moms.
 
-- [Opgaver og frister](kalender.md)
-- [Hvad kan en revisor hjælpe med?](revisor.md)
-- [Hvad skal du huske når du indberetter moms?](moms.md)
+> **Note:** Se [aktuelle frister](https://skat.dk/erhverv/moms/frister-indberet-og-betal-moms) for moms.
 
-## Overblik
-Hvis du driver et anpartsselskab (ApS) i Danmark, er der flere regnskabs- og indberetningsopgaver, du skal udføre løbende og årligt. Nedenfor er de vigtigste:
+## Faste opgaver
+Selskabets “skattemæssige selvangivelse”/oplysninger om årets resultat (skattemæssig indkomst mv.).
 
-1. **Årsrapport**: Du skal udarbejde en årsrapport, som skal indsendes til Erhvervsstyrelsen inden for fire måneder efter regnskabsårets afslutning. Årsrapporten skal omfatte ledelsesberetning, resultatopgørelse, balance, noter og eventuelt en ledelsespåtegning. 
+|Opgave|Dato|Beskrivelse|Hvor|
+|-|-|-|-|
+|[Momsindberetning](./moms.md)|1. marts|Afregningsperioden 1. juli - 31. december året før|[TastSelv Erhverv – Sådan indberetter du moms](https://skat.dk/erhverv/moms/moms-saadan-goer-du/saadan-indberetter-du-moms)|
+|[Generalforsamling](generalforsamling.md)|30. maj|Senest fem måneder efter regnskabsårets afslutning|[Hvordan gennemføres en generalforsamling](https://www.legaldesk.dk/erhverv/beslutningsreferat/hvordan-gennemfoeres-en-generalforsamling)|
+|[Årsrapport](./årsrapport.md)|30. juni|6 måneder efter regnskabsårets udløb. Selskabets “skattemæssige selvangivelse”/oplysninger om årets resultat (skattemæssig indkomst mv.)|[Hvordan indsender du årsrapporten](https://erhvervsstyrelsen.dk/hvordan-indsender-du-aarsrapporten), [Regnskab Basis vejledning](https://virk.dk/myndigheder/stat/ERST/selvbetjening/Regnskab_20/vejledning-regnskab-basis/)|
+|[Oplysningsskema](oplysningsskema.md)|30. juni|6 måneder efter indkomstårets udløb|[TastSelv Erhverv – Oplys årets resultat](https://skat.dk/erhverv/oplys-aarets-resultat)|
+|[Skat](./skat.md)|20. marts, 20. november, evt. 1. februar|Acontoskat (forudbetaling af selskabsskat). Tjek årsopgørelse for selskabsskat (typisk oktober) og afstem restskat via Skattekontoen|[Betal acontoskat og selskabsskat](https://skat.dk/erhverv/selskaber-fonde-og-foreninger/selskaber-og-fonde/betal-acontoskat-og-selskabsskat)|
+|[Momsindberetning](./moms.md)|1. September|Afregningsperioden 1. januar - 30. juni samme år|[TastSelv Erhverv – Sådan indberetter du moms](https://skat.dk/erhverv/moms/moms-saadan-goer-du/saadan-indberetter-du-moms)|
+|[Bogføring](./bogføring.md)|Løbende|Regnskabsbøger, herunder kassebog, salgsbog og købsbog|-|
 
-2. **Selvangivelse**: Du skal indsende en selvangivelse til Skattestyrelsen, som normalt skal indsendes inden for fire måneder efter regnskabsårets afslutning. Selvangivelsen skal indeholde oplysninger om selskabets skattepligtige indkomst.
+## Andre og eventuelle opgaver
 
-3. **Momsindberetning**: Hvis din virksomhed er momsregistreret, skal du indsende momsangivelser. Frekvensen af disse indberetninger kan variere afhængigt af virksomhedens omsætning, men det kan være månedligt, kvartalsvist eller halvårligt.
+### Skat og afstemning
+- **Skattekonto:** Afstem løbende din Skattekonto via TastSelv Erhverv. Tjek årsopgørelse for selskabsskat (typisk udsendt i oktober) og betal evt. restskat eller renter. Se [betal acontoskat og selskabsskat](https://skat.dk/erhverv/selskaber-fonde-og-foreninger/selskaber-og-fonde/betal-acontoskat-og-selskabsskat).
 
-4. **A-skat og AM-bidrag**: Hvis selskabet har ansatte, skal du løbende indberette og afregne A-skat og arbejdsmarkedsbidrag (AM-bidrag).
+### Lønrelateret (hvis du har lønnede medarbejdere)
+- **Lønsumsafgift:** Indberet og betal via [TastSelv Erhverv](https://skat.dk/erhverv/loensumsafgift/indberet-og-betal-loensumsafgift). Gælder bl.a. hvis du er momsfritaget.
+- **A-skat og AM-bidrag:** Løbende indberetning og betaling af løn til medarbejdere.
 
-5. **B-skat**: Hvis du selv tager løn ud af selskabet, skal du også sørge for løbende at betale B-skat.
+### Løn til dig selv (ejerleder)
+- **B-skat:** Hvis du tager løn ud af selskabet, skal du betale B-skat løbende.
 
-6. **Lønsumsafgift**: Visse virksomheder skal betale lønsumsafgift, som er en afgift af den samlede lønudbetaling i virksomheden.
+### Selskabsændringer
+- **Ændringer i ledelsen:** Registrer nye direktører eller bestyrelsesmedlemmer hos [Erhvervsstyrelsen via Virk](https://virk.dk/myndigheder/stat/ERST/selvbetjening/Webreg_aendre_virksomhed__lukke_virksomhed/) senest to uger efter generalforsamlingen.
+- **Aktiekapital:** Ved kapitalændringer (forhøjelse eller nedsættelse) skal beslutningen registreres hos Erhvervsstyrelsen med dokumentation for den indbetalte kapital.
 
-7. **Regnskabsbøger**: Du skal løbende føre regnskabsbøger, herunder kassebog, salgsbog og købsbog.
-
-8. **Aktiekapital dokumentation**: Hvis der sker ændringer i selskabets aktiekapital, skal dette indberettes til Erhvervsstyrelsen.
-
-9. **Ændringer i ledelsen**: Ændringer i selskabets ledelse, adresse eller vedtægter skal indberettes til Erhvervsstyrelsen.
-
-Bemærk, at dette er en generel liste, og der kan være yderligere krav afhængigt af din specifikke situation og virksomhedstype. Det er altid en god idé at rådføre dig med en revisor eller anden økonomisk rådgiver for at sikre, at du overholder alle krav.
+### Professionel hjælp
+- **Revisor:** Hvis du har brug for hjælp til regnskab, revision eller skatterådgivning, kan en [revisor](./revisor.md) være en værdifuld ressource.
